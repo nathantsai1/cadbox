@@ -19,3 +19,10 @@ I wanted to make a CAD box, and learn how to add multiple components. In this pa
 # How long did I spend?
 
 I spent about 20 hours
+
+# How to use?
+
+Import the STL file in the 3D slicing system of your choice, and print it(if you would like to do that)
+If you want to edit this, import the .STEP file in the CAD system of your choice, and continue to edit the projects
+For both, you must import each seperately
+
