@@ -26,3 +26,4 @@ Import the STL file in the 3D slicing system of your choice, and print it(if you
 If you want to edit this, import the .STEP file in the CAD system of your choice, and continue to edit the projects
 For both, you must import each seperately
 
+See 24.png for the latest images of my CAD box
