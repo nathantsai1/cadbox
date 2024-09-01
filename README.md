@@ -7,6 +7,12 @@ I wanted to make a CAD box, and learn how to add multiple components. In this pa
 https://cloud-hy2bxohi3-hack-club-bot.vercel.app/024a.png
 https://cloud-ki2rk3s3k-hack-club-bot.vercel.app/0image.png
 
+# Link to model
+https://a360.co/3Ap2zXk
+https://a360.co/3X6TFWe
+
+This should work, but I'm not sure if the link will stay open or not.
+
 # What does it do?
 
 * makes a hinged box
